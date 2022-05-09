@@ -1,0 +1,39 @@
+{
+    "orders": [
+        {
+            "item": "ноутбук",
+            "quantity": "3",
+            "price": "35000",
+            "buyer": "Kim A.K.",
+            "date": "09.05.2022"
+        },
+        {
+            "item": "МФУ",
+            "quantity": "1",
+            "price": "24000",
+            "buyer": "Nine J.O.",
+            "date": "08.05.2022"
+        },
+        {
+            "item": "PC",
+            "quantity": "2",
+            "price": "58000",
+            "buyer": "Apa K.J.",
+            "date": "07.05.2022"
+        },
+        {
+            "item": "iPad",
+            "quantity": "5",
+            "price": "43000",
+            "buyer": "Tsui S.M.",
+            "date": "07.05.2022"
+        },
+        {
+            "item": "гарнитура",
+            "quantity": "10",
+            "price": "5000",
+            "buyer": "Pine P.V.",
+            "date": "07.05.2022"
+        }
+    ]
+}
