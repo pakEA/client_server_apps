@@ -1,0 +1,9 @@
+items:
+- iPhone 13
+- Samsung S22
+- Xiaomi
+items_quantity: 3
+items_price:
+  iPhone 13: 900£
+  Samsung S22: 600£
+  Xiaomi: 300£
